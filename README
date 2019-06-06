@@ -1,0 +1,3 @@
+# POC Reflection in Rust
+
+A proof of concept for bringing type reflection into the metadata system of Substrate.
